@@ -1,0 +1,19 @@
+{
+  "name": "filechanger",
+  "version": "1.0.0",
+  "description": ":ok_hand: A nodeJS project to study how to update files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipecancio/filechanger.git"
+  },
+  "author": "Filipe Câncio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filipecancio/filechanger/issues"
+  },
+  "homepage": "https://github.com/filipecancio/filechanger#readme"
+}
